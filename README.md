@@ -1,4 +1,4 @@
-## Hi, I'm Sheerin S 😊
+## Hi, I'm Sheerin S 👨‍💻
 
 🎓 SRMIST | B.Tech 3rd Year  | Computer Science With Specalization in AI & ML
 🖥️ Coding, Graphic Designing & Leadership Skills
