@@ -1,6 +1,6 @@
 ## Hi, I'm Sheerin S 👨‍💻
 
-🎓 SRMIST | B.Tech 3rd Year  | Computer Science With Specalization in AI & ML
+🎓 [SRMIST](https://srmistvdp.edu.in/) | B.Tech 3rd Year  | Computer Science With Specalization in AI & ML
 🖥️ Coding, Graphic Designing & Leadership Skills
 ⚙️ HTML | CSS | Python | C | Photoshop | Adobe 
 ✨Passionate about web development, Designing, Gaming, Brain Teaser Quizes, Photography, Mentoring, Music, Reading Books
